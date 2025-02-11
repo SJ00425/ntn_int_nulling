@@ -6,7 +6,7 @@ This repository contains Python simulations for satellite NTN (Non-Terrestrial N
 ### Equation Verification
 - **`verify_equations.ipynb`**: Verified equations (20), (21), and (54).
 
-### Sionna-Based Simulations
+## Sionna-Based Simulations
 - **`random_add_multi_ntnue.ipynb`**: Randomly adds NTN-UEs around the transmitter based on distance and SNR range.
 - **`Sionna_simu_with_3ntn_ue.ipynb`**: Simulation setup with:
   - One transmitter (Tx)

@@ -8,6 +8,7 @@ This repository contains Python simulations for satellite NTN (Non-Terrestrial N
 
 ## Sionna-Based Simulations
 - **`data_generate.ipynb`**:
+  - generated **`channels.pkl`**
   - One transmitter (Tx)
   - Three terrestrial UEs (T-UEs)
   - Three NTN-UEs

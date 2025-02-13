@@ -7,6 +7,10 @@ This repository contains Python simulations for satellite NTN (Non-Terrestrial N
 - **`verify_equations.ipynb`**: Verified equations (20), (21), and (54).
 
 ## Sionna-Based Simulations
+- **`Narrow_Channel copy.ipynb`**: Only need denver.xml to run (combined **`data_generate.ipynb`** and **`channest_bf.ipynb`**)
+
+- **`OFDM_Channel.ipynb`**: Simulation with OFDM channels
+
 - **`data_generate.ipynb`**:
   - generated **`channels.pkl`**
   - One transmitter (Tx)

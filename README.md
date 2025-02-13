@@ -21,7 +21,9 @@ This repository contains Python simulations for satellite NTN (Non-Terrestrial N
   - Channel estimation and beamforming
 
 - **Scene Loading**: Use `denver.xml` to load the simulation scene.
+- make `denver.xml` and 'meshes' into the same fold and then load
 
 ## Blender Files
 - **`denver.blend`** and `meshes/`: Open in Blender to visualize locations.
+  
 

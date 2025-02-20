@@ -2,6 +2,8 @@
 
 This repository contains Python simulations for satellite NTN (Non-Terrestrial Network) interference nulling.
 
+## Only need to run OFDM_Channel_add_users.ipynb with denver file
+
 ## Python Simulations
 ### Equation Verification
 - **`verify_equations.ipynb`**: Verified equations (20), (21), and (54).

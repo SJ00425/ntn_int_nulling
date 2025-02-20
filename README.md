@@ -2,7 +2,9 @@
 
 This repository contains Python simulations for satellite NTN (Non-Terrestrial Network) interference nulling.
 
-## Only need to run **`OFDM_Channel_add_users.ipynb`** with denver file
+- Only need to run **`OFDM_Channel_add_users.ipynb`** with denver file
+- **`OFDM_Channel_CFD.ipynb`** to generate CDF curve
+
 
 ## Python Simulations
 ### Equation Verification

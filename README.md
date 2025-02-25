@@ -1,5 +1,10 @@
 # NTN Interference Nulling
 
+## Detection:
+- **`.xml`** and map files are in Denver file
+- **` detection probability.ipynb`** and **` detection probability_CDF.ipynb`** are for detection
+
+
 This repository contains Python simulations for satellite NTN (Non-Terrestrial Network) interference nulling.
 
 - Only need to run **`OFDM_Channel_add_users.ipynb`** with denver file

@@ -1,5 +1,9 @@
 # NTN Interference Nulling
 
+## Baseline:
+- **`VSAT_ant.ipynb`** shows the vsat antenna patters
+- **` Baseline_CDF.ipynb`** can get the scene use geo2sigmap in code
+
 ## Detection:
 - **`.xml`** and map files are in Denver file
 - **` detection probability.ipynb`** and **` detection probability_CDF.ipynb`** are for detection

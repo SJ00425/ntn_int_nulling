@@ -1,5 +1,10 @@
 # NTN Interference Nulling
 
+- **`SNR_Baseline_nt*nr_section.ipynb`** CDF curves for:
+- INR SNR with BS Beamforming to terrestrial UEs,
+- INR SNR with BS Beamforming to nulling interference on ntn-UEs with h^ntn,
+- INR SNR with BS Beamforming to nulling interference on ntn-UEs with h^ntn_hat
+
 ## Baseline:
 - **`VSAT_ant.ipynb`** shows the vsat antenna patters
 - **` Baseline_CDF.ipynb`** can get the scene use geo2sigmap in code
